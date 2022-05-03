@@ -80,14 +80,21 @@ Long description will impact on rankings. As per the whole dataframe if the leng
 Ans: Taken the first 50 samples from the DataFrame to perform the analysis.
      Used "language_tool_python" library for finding the grametical mistakes.
      Got output as below:-
+     
      Anathi Khanyile  -- Mistakes found,  2  mistakes
+     
      Tony bahut funny hai Hill climbing racing my favourite game  -- Mistakes found,  3  mistakes
+     
      Teturwu  -- Mistakes found,  1  mistakes
+     
      Hoooooooooooyaaaaaaaaa what a game hooooooooooooyaaaaaaaa  -- Mistakes found,  2  mistakes
+     
      This game is nice  -- No mistakes
      
+      
      Added 1 column No_of_Mistakes at last in df1 dataframe. Which shows the number of gramatical mistakes, will be easy to understand.
      Kindly refer the shared code for this.
+    
      
 ## More Bonus points (You can write answers to these in ReadMe)
 ### Question 1) Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution). 
